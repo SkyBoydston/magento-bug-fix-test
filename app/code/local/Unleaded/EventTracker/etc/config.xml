@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<config>
+
+    <modules>
+        <Unleaded_EventTracker>
+            <version>0.0.1</version>
+        </Unleaded_EventTracker>
+    </modules>
+
+    <frontend>
+    	<routers>
+    		<utracker>
+    			<use>standard</use>
+    			<args>
+    				<module>Unleaded_EventTracker</module>
+    				<frontName>utracker</frontName>
+    			</args>
+    		</utracker>
+    	</routers>
+
+        <layout>
+            <updates>
+                <unleaded_eventtracker module="Unleaded_EventTracker">
+                    <file>unleaded_eventtracker.xml</file>
+                </unleaded_eventtracker>
+            </updates>
+        </layout>
+    </frontend>
+
+    <global>
+	    <blocks>
+	    	<unleaded_eventtracker>
+	    		<class>Unleaded_EventTracker_Block</class>
+	    	</unleaded_eventtracker>
+	    </blocks>
+	</global>
+
+</config>

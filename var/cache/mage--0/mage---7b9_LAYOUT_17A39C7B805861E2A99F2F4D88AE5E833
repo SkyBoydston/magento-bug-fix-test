@@ -438,6 +438,14 @@
 <reference name="header">
    <block type="page/template_links" name="account.links" as="accountLinks" template="persistent/header/links.phtml"/>
 </reference>
+<reference name="head">
+   <action method="addJs">
+      <file>unleaded_eventtracker/script.js</file>
+   </action>
+</reference>
+<reference name="root">
+   <block type="core/template" name="eventcapture" output="toHtml" template="unleaded_eventtracker/capture-links.phtml" before="-"/>
+</reference>
 <reference name="left_first">
    <block type="cms/block" name="cms_menu">
       <action method="setBlockId">

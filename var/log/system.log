@@ -1,0 +1,12 @@
+2016-08-19T16:25:22+00:00 ERR (3): Warning: Missing argument 1 for Zend_Controller_Request_Http::getParam(), called in C:\xampp\htdocs\app\code\local\Unleaded\EventTracker\controllers\LogController.php on line 9 and defined  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 722
+2016-08-19T16:25:22+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:25:22+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:29:40+00:00 ERR (3): Warning: Missing argument 1 for Zend_Controller_Request_Http::getParam(), called in C:\xampp\htdocs\app\code\local\Unleaded\EventTracker\controllers\LogController.php on line 9 and defined  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 722
+2016-08-19T16:29:40+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:29:40+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:30:04+00:00 ERR (3): Warning: Missing argument 1 for Zend_Controller_Request_Http::getParam(), called in C:\xampp\htdocs\app\code\local\Unleaded\EventTracker\controllers\LogController.php on line 9 and defined  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 722
+2016-08-19T16:30:04+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:30:04+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:34:23+00:00 ERR (3): Warning: Missing argument 1 for Zend_Controller_Request_Http::getParam(), called in C:\xampp\htdocs\app\code\local\Unleaded\EventTracker\controllers\LogController.php on line 9 and defined  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 722
+2016-08-19T16:34:23+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
+2016-08-19T16:34:23+00:00 ERR (3): Notice: Undefined variable: key  in C:\xampp\htdocs\lib\Zend\Controller\Request\Http.php on line 724
